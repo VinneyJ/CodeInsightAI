@@ -53,7 +53,7 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 ## Contact
 
-If you want to contact me, you can reach me at <YOUR_EMAIL>.
+If you want to contact me, you can reach me at vince1otieno@gmail.com.
 
 ## License
 
